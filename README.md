@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect with me
-- 🌐 [Portfolio](https://portfolio-nine-omega-m2g66k2h4.vercel.app/)  
+- 🌐 [Portfolio]https://portfolio-nine-omega-m2g66kc2h4.vercel.app/  
 - 💬 [Telegram](https://t.me/AbrahmBek)  
 - 💻 [GitHub](https://github.com/Abrahmbek)  
 
